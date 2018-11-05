@@ -85,7 +85,7 @@ theme = "hugo-elate-theme"
   [params.work]
     enable = true
     title = "Oeuvres"
-    description = "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts."
+    description = "On travaille sur des trucs intéressants."
     footertext = '** Demo images from <a href="http://plmd.me/" target="_blank">plmd.me</a>'
 
     [[params.work.row]]
